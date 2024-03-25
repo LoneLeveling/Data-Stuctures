@@ -1,2 +1,2 @@
 # Data-Stuctures
-Getting used to different Data structures (+NOTES)
+Understanding stacks its 5 functionalities (+NOTES)
