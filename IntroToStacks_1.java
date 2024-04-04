@@ -32,6 +32,8 @@ public class IntroToStacks_1 {
 
         System.out.println(stack.empty());//this will print false as now stack is non empty
 
+        System.out.println("stack size = "+stack.size());//size of stack
+        
         //Printing a stack:
         System.out.println(stack);
 
