@@ -7,7 +7,7 @@ public class IntroToStacks_1 {
         // push() to add objects to the top of the stack and
         // pop() to remove object from the top
 //So everything in stack happens with top elements, stack is represent generally vertically and not horizontally.
-//3 functions in stack (3 P's) : Push, Pop, Peek
+//3 functions in stack (3 P's) : Push, Pop, Peek (=~sysout)
         
         //Declaring a stack:
         Stack<String> stack = new Stack<String>();
