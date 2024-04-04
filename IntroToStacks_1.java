@@ -6,7 +6,9 @@ public class IntroToStacks_1 {
         //stores objects into a sort of "vertical tower" , like a stack of books a stacks of CD's
         // push() to add objects to the top of the stack and
         // pop() to remove object from the top
-
+//So everything in stack happens with top elements, stack is represent generally vertically and not horizontally.
+//3 functions in stack (3 P's) : Push, Pop, Peek
+        
         //Declaring a stack:
         Stack<String> stack = new Stack<String>();
         //there are 5 functions associated with stack:
